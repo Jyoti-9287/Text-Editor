@@ -220,7 +220,7 @@ def align_center():
 
 align_center_btn.configure(command=align_center)
 
-## right 
+## right align
 def align_right():
     text_content = text_editor.get(1.0, 'end')
     text_editor.tag_config('right', justify=tk.RIGHT)
