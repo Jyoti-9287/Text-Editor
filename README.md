@@ -1,2 +1,2 @@
 # Text-Editor
-This code is for a Text editor app
+Here is code for a Text editor app and icons.
